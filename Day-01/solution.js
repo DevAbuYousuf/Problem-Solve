@@ -60,3 +60,4 @@ const num7 = parseInt (prompt("Enter a number:"));
     console.log(i * i);
 //    console.log( Math.pow(i,2));
  }
+
